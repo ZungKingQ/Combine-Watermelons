@@ -1,5 +1,2 @@
 Base path: 'Q:/UNITY/2019.4.35f1c1/Editor/Data', plugins path 'Q:/UNITY/2019.4.35f1c1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
-Cmd: shutdown
-
-Quitting shader compiler process
